@@ -245,13 +245,13 @@ li {
     font-weight: bold;
 }
 #imgnews3{
-    background: url(./pictures/news3.png);
+    background: url(pictures/news3.png);
 }
 #imgnews2{
-    background: url(./pictures/news2.png);
+    background: url(pictures/news2.png);
 }
 #imgnews1{
-    background: url(./pictures/news1.png);
+    background: url(pictures/news1.png);
 }
 
 /* Нижнее меню */
